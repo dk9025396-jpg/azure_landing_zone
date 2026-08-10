@@ -8,7 +8,7 @@ rgs = {
     location = "eastus"
   }
   rg3 = {
-    name     = "rg-david95"
+    name     = "rg-david96"
     location = "westus"
   }
     rg4 = {
