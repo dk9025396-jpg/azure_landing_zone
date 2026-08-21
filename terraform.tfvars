@@ -19,5 +19,9 @@ rgs = {
     name     = "rg-david109"
     location = "eastus"
   }
+   rg6= {
+    name     = "rg-david1091"
+    location = "eastus"
+  }
 
 }
