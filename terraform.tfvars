@@ -7,21 +7,6 @@ rgs = {
     name     = "rg-david93"
     location = "eastus"
   }
-  rg3 = {
-    name     = "rg-david99"
-    location = "eastus"
-  }
-  rg4 = {
-    name     = "rg-david100"
-    location = "eastus"
-  }
-  rg5 = {
-    name     = "rg-david109"
-    location = "eastus"
-  }
-   rg6= {
-    name     = "rg-david1091"
-    location = "eastus"
-  }
+  
 
 }
